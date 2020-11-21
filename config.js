@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://www.alpha2phi.com',
   pathPrefix: '/',
-  title: 'Apha2Phi',
-  subtitle: 'XXX',
+  title: 'apha2Phi',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'alpha2Phi',
-    photo: '/avatar.png',
+    photo: '/photo.png',
     bio: 'Blog by alpha2phi.com',
     contacts: {
       email: '',
