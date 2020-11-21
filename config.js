@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Alpha2Phi',
+    name: 'alpha2Phi',
     photo: '/avatar.png',
     bio: 'Blog by alpha2phi.com',
     contacts: {
