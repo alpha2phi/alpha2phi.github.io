@@ -11,7 +11,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0",
     "deploy_local": "gatsby build --prefix-paths && echo '' > ./public/CNAME && gh-pages -d public",
     "deploy": "gatsby build --prefix-paths && echo 'alpha2phi.com' > ./public/CNAME && gh-pages -d public -r https://$GH_TOKEN@github.com/alpha2phi/alpha2phi.github.io.git"
   },
